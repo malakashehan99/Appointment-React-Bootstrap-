@@ -17,6 +17,11 @@ An appointment management application that allows users to add, view, search, so
 
 ## Setup Instructions
 
-## 1. Install dependencies
+### 1. Install dependencies
 ```bash
 npm install
+```
+### 2. Start the development server
+```bash
+npm start
+```
